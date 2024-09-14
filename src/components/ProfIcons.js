@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ProfIcons({icon, name}) {
+export default function ProfIcons({ icon, name }) {
     return (
         <div className="profIcons text-center">
             <i className={`${icon} text-2xl text-gray-500 leading-none`}></i>

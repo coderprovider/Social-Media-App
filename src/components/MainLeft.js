@@ -10,13 +10,13 @@ import Weather from './Weather'
 export default function MainLeft() {
     return (
         <div className="mainLeft">
-            <Weather/>
-            <Birthday/>
-            <Followers/>
-            <Twitter/>
-            <Discount/>
-            <Activities/>
-            <ShortCuts/>
+            <Weather />
+            <Birthday />
+            <Followers />
+            <Twitter />
+            <Discount />
+            <Activities />
+            <ShortCuts />
         </div>
     )
 }
